@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Huayun Ai! 👋  
+### Software Developer | C & C++ Enthusiast | Problem Solver  
 
-<!--
-**emily-cloud/emily-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Transitioning from international business to software development, I specialize in C and C++ with a strong focus on backend systems, algorithms, and memory optimization. Currently honing my skills at **42 Berlin**, I thrive on solving complex problems and writing efficient, low-level code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 What I Do  
+💻 **Systems & Backend Development** – Crafting optimized, low-level C/C++ programs.  
+🔎 **Algorithms & Data Structures** – Implementing efficient solutions to computational problems.  
+🐧 **Unix/Linux Programming** – System calls, process management, and shell scripting.  
+
+---
+
+## 🔹 My Journey  
+My career began in international sales, where I managed B2C operations, built global partnerships, and optimized supply chains. This experience shaped my problem-solving mindset, which I now apply to software engineering—writing structured code, debugging complex systems, and optimizing performance.  
+
+---
+
+## 🔹 Projects & Contributions  
+🔹 **Minishell** – A custom Unix shell with built-in execution and redirection handling.  
+🔹 **Cub3D** – A 3D graphics engine using raycasting in C.  
+🔹 **Philosopher** – A concurrency and multithreading challenge in C.  
+🔹 **Push Swap** – An optimized stack-based sorting algorithm.  
+
+---
+
+## 📫 Let's Connect!  
+If you're passionate about **systems programming, algorithms, or Unix**, let's chat!  
+[LinkedIn](https://www.linkedin.com/in/huayun-ai/) | [GitHub](https://github.com/huayun-ai)  
