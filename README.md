@@ -26,7 +26,7 @@ My career began in international sales, where I managed B2C operations, built gl
 - [Minishell](https://github.com/emily-cloud/minishell) – A custom Unix shell implementation.  
 - [Cub3D](https://github.com/emily-cloud/cub3d) – A 3D graphics engine using raycasting.  
 - [Philosopher](https://github.com/emily-cloud/philosopher) – A concurrency and multithreading challenge.
-- [Push Swap](https://github.com/emily-cloud/push-swap)– An optimized stack-based sorting algorithm.
+- [Push Swap](https://github.com/emily-cloud/push_swap)– An optimized stack-based sorting algorithm.
 
 ---
 
