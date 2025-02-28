@@ -17,7 +17,7 @@ My career began in international sales, where I managed B2C operations, built gl
 
 ---
 
-## 🔹 Projects & Contributions  
+## 🔹 Projects
 🔹 [Minishell](https://github.com/emily-cloud/minishell) – A custom Unix shell with built-in execution and redirection handling.  
 🔹 [Cub3D](https://github.com/emily-cloud/cub3d) – A 3D graphics engine using raycasting in C.  
 🔹 [Philosopher](https://github.com/emily-cloud/philosophers) – A concurrency and multithreading challenge in C.  
