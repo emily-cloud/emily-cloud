@@ -18,15 +18,10 @@ My career began in international sales, where I managed B2C operations, built gl
 ---
 
 ## 🔹 Projects & Contributions  
-🔹 **Minishell** – A custom Unix shell with built-in execution and redirection handling.  
-🔹 **Cub3D** – A 3D graphics engine using raycasting in C.  
-🔹 **Philosopher** – A concurrency and multithreading challenge in C.  
-🔹 **Push Swap** – An optimized stack-based sorting algorithm.  
-## 🔹 Projects  
-- [Minishell](https://github.com/emily-cloud/minishell) – A custom Unix shell implementation.  
-- [Cub3D](https://github.com/emily-cloud/cub3d) – A 3D graphics engine using raycasting.  
-- [Philosopher](https://github.com/emily-cloud/philosophers) – A concurrency and multithreading challenge.
-- [Push Swap](https://github.com/emily-cloud/push_swap)– An optimized stack-based sorting algorithm.
+🔹 [Minishell](https://github.com/emily-cloud/minishell) – A custom Unix shell with built-in execution and redirection handling.  
+🔹 -[Cub3D](https://github.com/emily-cloud/cub3d) – A 3D graphics engine using raycasting in C.  
+🔹 -[Philosopher](https://github.com/emily-cloud/philosophers) – A concurrency and multithreading challenge in C.  
+🔹 -[Push Swap](https://github.com/emily-cloud/push_swap) – An optimized stack-based sorting algorithm.  
 
 ---
 
