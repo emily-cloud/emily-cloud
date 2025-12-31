@@ -22,6 +22,9 @@ My career began in international sales, where I managed B2C operations, built gl
 🔹 [Cub3D](https://github.com/emily-cloud/cub3d) – A 3D graphics engine using raycasting in C.  
 🔹 [Philosopher](https://github.com/emily-cloud/philosophers) – A concurrency and multithreading challenge in C.  
 🔹 [Push Swap](https://github.com/emily-cloud/push_swap) – An optimized stack-based sorting algorithm.  
+🔹 [Transcendence](https://github.com/emily-cloud/transcendence_pong_game) – A full-stack multiplayer Pong platform with microservices, WebSockets, and 3D graphics.  
+🔹 [Webserv](https://github.com/emily-cloud/HTTP-webserve) – A C++98 HTTP/1.1 server with CGI support, file uploads, routing, and custom configuration parsing.  
+
 
 ---
 
