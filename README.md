@@ -1,4 +1,4 @@
-# Hi, I'm Huayun Ai! 👋  
+# Hi, I'm Huayun Ai, you can also call me Emily. 👋  
 ### Software Developer | C & C++ Enthusiast | Problem Solver  
 
 🚀 Transitioning from international business to software development, I specialize in C and C++ with a strong focus on backend systems, algorithms, and memory optimization. Currently honing my skills at **42 Berlin**, I thrive on solving complex problems and writing efficient, low-level code.  
